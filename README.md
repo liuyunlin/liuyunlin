@@ -30,7 +30,7 @@ I turn model capabilities into products that people can understand, trust, and u
 
 ## Experience highlights
 
-- Designed a multi-agent evaluation workflow and iterated its rubrics through disagreement analysis; automated and human QU scores reached **70%+ agreement within ±1 level** on the evaluated cases
+- Contributed to a multi-agent evaluation workflow, including rubric design, disagreement analysis and bad-case iteration
 - Contributed to the product definition and interaction design of the **ERNIE-Image 体验站** on AI Studio; the associated model API recorded **268K+ calls** with a **36K+ daily peak** after launch
 - Helped develop the evaluation framework and product flow for a **Deep Research Agent**, covering result quality, execution traces, citations and efficiency
 - Participated in the 0→1 product development of **We0.ai**; the project was featured on **Product Hunt**, showcased at **WAIC**, and backed by **MiraclePlus**
