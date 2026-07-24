@@ -17,7 +17,7 @@ I turn model capabilities into products that people can understand, trust, and u
 | --- | --- | --- |
 | [LingoWhale 语鲸](https://lingowhale.com/) | An AI reading workspace for collecting, summarizing, tracing and understanding information across documents | Contributed to product work across the AI reading experience |
 | [Deep Research Agent](https://research-beta.deeplang.net/) | Plans research, searches multiple sources and produces traceable long-form reports | Agent workflow, interaction design and evaluation system |
-| [ERNIE-Image Experience](https://aistudio.baidu.com/ernieimage) | Turns an image-generation model into an accessible, scenario-based creation experience | MVP definition, interaction design and Agent Skill scenarios |
+| [ERNIE-Image 体验站](https://aistudio.baidu.com/ernieimage) | Turns an image-generation model into an accessible, scenario-based creation experience | MVP definition, interaction design and Agent Skill scenarios |
 | [We0.ai](https://we0.ai/zh) | An AI website generation and customer-acquisition platform | Product definition, user onboarding and AI Coding benchmark |
 
 ## Open-source projects and demos
