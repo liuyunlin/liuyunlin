@@ -20,7 +20,7 @@
 
 | 产品 | 产品简介 | 我的工作 |
 | --- | --- | --- |
-| [语鲸 LingoWhale](https://lingowhale.com/) | 聚合信息收集、阅读、总结、原文定位与知识理解的 AI 阅读工作台 | 参与 AI 阅读体验相关的部分产品工作 |
+| [语鲸 LingoWhale](https://lingowhale.com/) | 聚合信息收集、阅读、总结、原文定位与知识理解的 AI 阅读工作台 | 参与 AI 新闻推荐优化相关的产品工作 |
 | [Deep Research Agent](https://research-beta.deeplang.net/) | 自动制定研究计划、检索多源信息并生成可溯源长报告 | Agent 产品链路、交互设计与评测体系 |
 | [ERNIE-Image 体验站](https://aistudio.baidu.com/ernieimage) | 将图像生成模型转化为低门槛、场景化的在线创作体验 | MVP 定义、交互设计与 Agent Skill 场景 |
 | [We0.ai](https://we0.ai/zh) | AI 网站生成与获客平台 | 产品定义、用户引导与 AI Coding Benchmark |
