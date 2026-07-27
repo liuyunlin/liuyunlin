@@ -5,7 +5,7 @@
 
 # Hi, I'm Yunlin Liu 👋
 
-**AI Product Manager focused on Agents, model evaluation, and AI-native product experiences.**
+**AI Product Manager focused on Agents, AI evaluation, and AI-native experiences—turning complex technical capabilities into clear product narratives and usable experiences.**
 
 I turn model capabilities into products that people can understand, trust, and use—from Deep Research Agents and LLM evaluation pipelines to no-code fine-tuning and AI image-generation workflows.
 
