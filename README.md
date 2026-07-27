@@ -11,7 +11,7 @@ I turn model capabilities into products that people can understand, trust, and u
 - **AI-native workflows:** MCP, Agent Skills, CLI tools, RAG, prompt and loop engineering
 - **Product delivery:** MVP definition, interaction design, user research, data-driven iteration
 
-## Products I have contributed to
+## Products and digital experiences I have contributed to
 
 | Product | What it does | My contribution |
 | --- | --- | --- |
@@ -19,6 +19,7 @@ I turn model capabilities into products that people can understand, trust, and u
 | [Deep Research Agent](https://research-beta.deeplang.net/) | Plans research, searches multiple sources and produces traceable long-form reports | Agent workflow, interaction design and evaluation system |
 | [ERNIE-Image 体验站](https://aistudio.baidu.com/ernieimage) | Turns an image-generation model into an accessible, scenario-based creation experience | MVP definition, interaction design and Agent Skill scenarios |
 | [We0.ai](https://we0.ai/zh) | An AI website generation and customer-acquisition platform | Product definition, user onboarding and AI Coding benchmark |
+| [Kiveiv Official Website](https://kiveiv.com/) | Presents Kiveiv's data intelligence and ontology solutions | Contributed to visual system iteration and mobile/WeChat experience improvements |
 
 ## Open-source projects and demos
 
