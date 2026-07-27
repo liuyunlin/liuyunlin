@@ -27,7 +27,7 @@ I turn model capabilities into products that people can understand, trust, and u
 | --- | --- | --- |
 | [CLI Trainer](https://github.com/liuyunlin/cli-trainer) | Runs SFT/LoRA/DPO training on AI Studio through a guided Agent Skill | Training workflow, compatibility rules, status feedback and failure recovery |
 | [Xinghe Image](https://github.com/liuyunlin/xinghe-image) | Generates banners, illustrations, infographics and Xiaohongshu cards with ERNIE-Image | Scenario design, prompt presets and content-production workflow |
-| [Nomi Camera Entry](https://github.com/liuyunlin/nomi-camera-entry) | A lightweight mobile entry page for the Nomi Camera mini program | Minimal mobile experience and GitHub Pages delivery |
+| [Nomi](https://github.com/liuyunlin/nomi-camera-entry) | An AI memory camera connecting a WeChat Mini Program with Raspberry Pi and portable photo printing | Product flow, mini-program frontend and the software–hardware printing loop |
 
 ## Experience highlights
 
