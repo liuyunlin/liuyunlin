@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://github.com/liuyunlin/liuyunlin/blob/main/README.md"><img src="https://img.shields.io/badge/English-111827?style=flat-square" alt="English" /></a>
+  <a href="https://github.com/liuyunlin/liuyunlin/blob/main/README_CN.md"><img src="https://img.shields.io/badge/简体中文-2563EB?style=flat-square" alt="简体中文" /></a>
+</p>
+
 # Hi, I'm Yunlin Liu 👋
 
 **AI Product Manager focused on Agents, model evaluation, and AI-native product experiences.**
@@ -19,7 +24,6 @@ I turn model capabilities into products that people can understand, trust, and u
 | [Deep Research Agent](https://research-beta.deeplang.net/) | Plans research, searches multiple sources and produces traceable long-form reports | Agent workflow, interaction design and evaluation system |
 | [ERNIE-Image 体验站](https://aistudio.baidu.com/ernieimage) | Turns an image-generation model into an accessible, scenario-based creation experience | MVP definition, interaction design and Agent Skill scenarios |
 | [We0.ai](https://we0.ai/zh) | An AI website generation and customer-acquisition platform | Product definition, user onboarding and AI Coding benchmark |
-| [Kiveiv Official Website](https://kiveiv.com/) | Presents Kiveiv's data intelligence and ontology solutions | Contributed to visual system iteration and mobile/WeChat experience improvements |
 
 ## Open-source projects and demos
 
@@ -28,6 +32,7 @@ I turn model capabilities into products that people can understand, trust, and u
 | [CLI Trainer](https://github.com/liuyunlin/cli-trainer) | Runs SFT/LoRA/DPO training on AI Studio through a guided Agent Skill | Training workflow, compatibility rules, status feedback and failure recovery |
 | [Xinghe Image](https://github.com/liuyunlin/xinghe-image) | Generates banners, illustrations, infographics and Xiaohongshu cards with ERNIE-Image | Scenario design, prompt presets and content-production workflow |
 | [Nomi](https://github.com/liuyunlin/nomi-camera-entry) | An AI memory camera connecting a WeChat Mini Program with Raspberry Pi and portable photo printing | Product flow, mini-program frontend and the software–hardware printing loop |
+| [Kiveiv Official Website](https://kiveiv.com/) | A concise corporate website presenting Kiveiv's data intelligence and ontology solutions | Information structure, visual system, responsive frontend and mobile/WeChat polish |
 
 ## Experience highlights
 
@@ -51,7 +56,7 @@ It includes my background, projects, communication preferences, interests, and t
 
 ## Connect
 
-- Email: [liuyunlin752@gmail.com](mailto:liuyunlin752@gmail.com)
+- Email: [liuyunlin752@gmail.com](mailto:liuyunlin752@gmail.com) · [1265217671@qq.com](mailto:1265217671@qq.com)
 - Personal manual: [柳芸琳的个人说明书与个人知识库](https://weschool.feishu.cn/wiki/N08RwBvtti8iLZk8syKc5bpyn3b)
 
 > I care about a simple question: how can an AI system move from “it can generate” to “people can reliably finish real work with it”?
